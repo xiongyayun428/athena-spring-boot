@@ -19,9 +19,9 @@
 	<properties>
 		<revision>1.0-SNAPSHOT</revision>
 
-		<git.url>https://github.com/xiongyayun428/athena</git.url>
-		<git.connection>scm:git:git://github.com/xiongyayun428/athena.git</git.connection>
-		<git.developerConnection>scm:git:ssh://git@github.com/xiongyayun428/athena.git</git.developerConnection>
+		<git.url>https://github.com/xiongyayun428/athena-spring-boot</git.url>
+		<git.connection>scm:git:git://github.com/xiongyayun428/athena-spring-boot.git</git.connection>
+		<git.developerConnection>scm:git:ssh://git@github.com/xiongyayun428/athena-spring-boot.git</git.developerConnection>
 	</properties>
 
 	<scm>
@@ -31,7 +31,7 @@
 	</scm>
 	<issueManagement>
 		<system>Github</system>
-		<url>https://github.com/xiongyayun428/athena/issues</url>
+		<url>https://github.com/xiongyayun428/athena-spring-boot/issues</url>
 	</issueManagement>
 
 	<modules>
