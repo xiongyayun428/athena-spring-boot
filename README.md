@@ -1,1 +1,1 @@
-# athena-spring-boot
+# Athena Spring Boot
